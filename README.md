@@ -24,3 +24,5 @@ reply + files to Telegram itself.
 - Only user `6729267449` can trigger runs.
 - Kaggle still has its 12h session and ~30 GPU-hours/week limits.
 - GitHub may delay or drop scheduled runs under load; this is not real-time.
+
+Trigger workflow discovery.
